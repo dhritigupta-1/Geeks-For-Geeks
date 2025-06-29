@@ -1,8 +1,4 @@
-Here's a version of the problem description formatted professionally for a GitHub README, consistent with GeeksforGeeks style:
-
----
-
-## 🧩 Problem: Check if Linked List Length is Even
+# 🧩 Problem: Check if Linked List Length is Even
 
 Given a singly linked list, complete the function `isLengthEven()` which takes the `head` of the linked list as input and checks whether the length of the linked list is **even** or **odd**.
 
@@ -10,9 +6,9 @@ Return `true` if the length is even, otherwise return `false`.
 
 ---
 
-### 🧠 Examples
+# 🧠 Examples
 
-#### Example 1:
+# Example 1:
 
 ```
 Input:  Linked List: 12 -> 52 -> 10 -> 47 -> 95 -> 0  
@@ -20,7 +16,7 @@ Output: true
 Explanation: The length of the linked list is 6, which is even.
 ```
 
-#### Example 2:
+# Example 2:
 
 ```
 Input:  Linked List: 9 -> 4 -> 3  
@@ -30,7 +26,7 @@ Explanation: The length of the linked list is 3, which is odd.
 
 ---
 
-### 🧾 Constraints
+# 🧾 Constraints
 
 * 1 ≤ Number of nodes ≤ 10⁵
 * 1 ≤ Elements of the linked list ≤ 10⁵
